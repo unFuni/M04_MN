@@ -1,3 +1,3 @@
 def hours():
-    #returns a string
+    #return string
     return 'Open 9-5 daily'
